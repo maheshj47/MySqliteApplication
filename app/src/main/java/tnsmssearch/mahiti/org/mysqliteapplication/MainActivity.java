@@ -48,7 +48,7 @@ public class MainActivity extends AppCompatActivity {
     public void AddData(String newEntry){
 
        if(myDB.addData(newEntry)){
-           Toast.makeText(this, "Successfully Entered data!", Toast.LENGTH_SHORT).show();
+           Toast.makeText(this, "Data is successfully entered!", Toast.LENGTH_SHORT).show();
        }else{
            Toast.makeText(this, "Something went wrong", Toast.LENGTH_SHORT).show();
            }
