@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "982891434348",
+    "firebase_url": "https://mysimpleloginapp.firebaseio.com",
+    "project_id": "mysimpleloginapp",
+    "storage_bucket": "mysimpleloginapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:982891434348:android:933f1ce17f74c2d9",
+        "android_client_info": {
+          "package_name": "tnsmssearch.mahiti.org.mysqliteapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "982891434348-p3hcfkmr6o7m7cnr1jclnoa7dc52vd2m.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "tnsmssearch.mahiti.org.mysqliteapplication",
+            "certificate_hash": "b3a16aa5228cb53f5e9c8b21bb7065aa310e0a0a"
+          }
+        },
+        {
+          "client_id": "982891434348-pu8t8mlagmt3fdh6u7li75g4s08q6381.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD5jRlBWPCeX7a4JNudY1RcJLlzHI0xRr8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "982891434348-pu8t8mlagmt3fdh6u7li75g4s08q6381.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
